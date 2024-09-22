@@ -40,6 +40,8 @@ WORKDIR /app
 
 CMD ["./infera"]
 ```
+Control ``X+Y+Enter`` to save the file
+
 ```
 sudo docker build -t infera-app .
 ```
